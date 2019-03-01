@@ -25,7 +25,11 @@ $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 
-$primary:       $orange !default;
+$brm-primary:  #3e6a88 !default;
+$brm-a:        #2473a3 !default;
+$brm-a-hover:  #389ddb !default;
+
+$primary:       $brm-primary !default;
 $secondary:     $gray-600 !default;
 $success:       $green !default;
 $info:          $cyan !default;
